@@ -5,7 +5,7 @@
 # Content
 
 
-# tribute Information:
+# Attribute Information:
     1. age
     2. sex
     3. chest pain type (4 values)
